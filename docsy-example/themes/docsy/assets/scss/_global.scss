@@ -1,10 +1,3 @@
-body {
-    margin-top: 100px;
-    @media (min-width: $ov--breakpoint--lg) {
-        margin-top: 72px;
-    }
-}
-
 .of-link-list {
     display: flex;
     a {
@@ -601,6 +594,12 @@ ol {
 }
   
 .td-search-result {
+    margin-top: 72px;
     padding: var(--of--spacer--xl);
     max-width: 100vw;
 }
+
+// .of-section-docs-wrapper {
+//    display: grid;
+//    grid-template-columns: 1fr 3fr;
+// }
