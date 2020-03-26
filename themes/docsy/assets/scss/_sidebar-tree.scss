@@ -96,9 +96,10 @@
         font-family: var(--of--font-family);
     }
     @include media-breakpoint-up(md) {
-        padding-top: 72px;
+        padding-top: var(--of--spacer--md);
         padding-bottom: 4rem;
         background-color: $td-sidebar-bg-color;
+        margin-bottom: 0;
         padding-right: 1rem;
         border-right: 1px solid $td-sidebar-border-color;
     }
