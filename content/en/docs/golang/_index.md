@@ -1,9 +1,5 @@
 ---
-title: Operator SDK Documentation
-linkTitle: SDK Docs
-menu:
-  main:
-    weight: 1
+title: Golang Based Operators
 weight: 20
 ---
 

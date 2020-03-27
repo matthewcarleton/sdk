@@ -1,10 +1,7 @@
 ---
-title: Operator SDK Documentation
-linkTitle: SDK Docs
-menu:
-  main:
-    weight: 1
-weight: 20
+title: Ansible Based Operator Reference
+linkTitle: Reference
+weight: 200
 ---
 
 {{% alert title="Warning" color="warning" %}}

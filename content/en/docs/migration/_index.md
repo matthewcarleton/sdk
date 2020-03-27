@@ -1,10 +1,6 @@
 ---
-title: Operator SDK Documentation
-linkTitle: SDK Docs
-menu:
-  main:
-    weight: 1
-weight: 20
+title: Migration Reference
+weight: 50
 ---
 
 {{% alert title="Warning" color="warning" %}}

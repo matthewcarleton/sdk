@@ -1,9 +1,5 @@
 ---
-title: Operator SDK Documentation
-linkTitle: SDK Docs
-menu:
-  main:
-    weight: 1
+title: Ansible Based Operators
 weight: 20
 ---
 
@@ -12,3 +8,5 @@ These pages are under construction. Please continue to use the [docs in
 tree](https://github.com/operator-framework/operator-sdk/tree/master/doc)
 for now.
 {{% /alert %}}
+
+Ansible based operators run playbooks and roles to react to changes in tracked Kubernetes resources (usually CRs).
