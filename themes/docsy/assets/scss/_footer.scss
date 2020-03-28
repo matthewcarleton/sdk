@@ -71,6 +71,11 @@
             &__a {
                 display: flex;
                 align-items: center;
+                font-size: 2rem;
+                &:hover, &:active, &:focus {
+                    text-decoration: none;
+                    opacity: .8;
+                }
             }
         }
         input {

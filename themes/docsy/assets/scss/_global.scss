@@ -88,10 +88,11 @@ ol {
             }
         }
         &:hover,&:active,&:focus {
-            color: var(--of--color-brand--300);
+            opacity: .8;
+            color: var(--of--color-brand--100);
             .of-button__icon {
                 path {
-                    fill: var(--of--color-brand--300);
+                    fill: var(--of--color-brand--100);
                 }
             }
         }
