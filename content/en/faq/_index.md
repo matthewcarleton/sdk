@@ -1,9 +1,9 @@
 ---
 title: FAQ
-menu:
-  main:
-    weight: 30
+# menu:
+#   main:
+#     weight: 30
 ---
 
-### test
- lorem ipsum
+### this is the title
+ this is the text
